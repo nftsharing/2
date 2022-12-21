@@ -46,7 +46,7 @@ We startup NTF collections on [opensea](https://opensea.io/) to bring you health
 [<img alt="Three Animal Friends #3" src="https://i.seadn.io/gcs/files/92e7860ec4ad3e6b107af32362c0e10b.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
 [<img alt="Three Animal Friends #4" src="https://i.seadn.io/gcs/files/b5cd67fe95bf178342cdd6901a8ccd86.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
 
-## Relative links as follows:
+## ▪ Relative links as follows:
 
 [https://t.me/nftsharing_community](https://t.me/nftsharing_community)
 
@@ -60,5 +60,5 @@ We startup NTF collections on [opensea](https://opensea.io/) to bring you health
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
-## Target
-We aim to list more than 1000K NFTs recently, with a speed of 5k NFTs per month.
+## ▪ Target
+We aim to list more than 1000K NFTs, with a speed of 5K per month in one laptop, recently.
