@@ -48,17 +48,15 @@ We startup NTF collections on [opensea](https://opensea.io/) to bring you health
 
 ## ▪ Relative links as follows:
 
-[https://t.me/nftsharing_community](https://t.me/nftsharing_community)
 
-[https://twitter.com/official_wwfem](https://twitter.com/official_wwfem)
-
-[https://medium.com/@official_wwfem](https://medium.com/@official_wwfem)
-
-[https://www.instagram.com/nft_sharing_community](https://www.instagram.com/nft_sharing_community)
+[<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharing_community)
+[<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
+[<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
+[<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
 ## ▪ Target
-We aim to list more than 1000K NFTs, with a speed of 5K per month in one laptop, recently.
+We aim to list more than 1000K NFTs, with a speed of 5K per month.
