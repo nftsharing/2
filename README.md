@@ -31,20 +31,20 @@ We startup NTF collections on [opensea](https://opensea.io/) to bring you health
 [<img alt="Woman #4" src="https://i.seadn.io/gcs/files/10c40992ac1af4cf6edd78fa86ca7c29.png" width="50px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439569957292615440)
 [<img alt="Woman #5" src="https://i.seadn.io/gcs/files/5bbb198549b1e7ea7d55c96dbe6089c7.png" width="50px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439571056804243216)
 
-## 2. Three Animal Friends
-[Three Animal Friends](https://opensea.io/collection/three-animal-friends) is a collection of 4 unique NFTs living on the Ethereum blockchain. They have secret energy power that could bring health, wealth and happiness to you.
+## 2. Three Good Friends
+[Three Good Friends](https://opensea.io/collection/three-good-friends) is a collection of 4 unique NFTs living on the Ethereum blockchain. They have secret energy power that could bring health, wealth and happiness to you.
 
-[![Three Animal Friends](/logo/TAFBanner.png)](https://opensea.io/collection/three-animal-friends)
+[![Three Good Friends](/logo/TAFBanner.png)](https://opensea.io/collection/three-good-friends)
 
-[Three Animal Friends #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439576554362382096)
-[Three Animal Friends #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439577653874009872)
-[Three Animal Friends #3](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
-[Three Animal Friends #4](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
+[Three Good Friends #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439576554362382096)
+[Three Good Friends #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439577653874009872)
+[Three Good Friends #3](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
+[Three Good Friends #4](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
 
-[<img alt="Three Animal Friends #1" src="https://i.seadn.io/gcs/files/dbb1b53a1ab5c515fa571507fcc0b44a.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439576554362382096)
-[<img alt="Three Animal Friends #2" src="https://i.seadn.io/gcs/files/8a6adf47ba851337c497b97405e6dfe1.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439577653874009872)
-[<img alt="Three Animal Friends #3" src="https://i.seadn.io/gcs/files/92e7860ec4ad3e6b107af32362c0e10b.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
-[<img alt="Three Animal Friends #4" src="https://i.seadn.io/gcs/files/b5cd67fe95bf178342cdd6901a8ccd86.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
+[<img alt="Three Good Friends #1" src="https://i.seadn.io/gcs/files/dbb1b53a1ab5c515fa571507fcc0b44a.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439576554362382096)
+[<img alt="Three Good Friends #2" src="https://i.seadn.io/gcs/files/8a6adf47ba851337c497b97405e6dfe1.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439577653874009872)
+[<img alt="Three Good Friends #3" src="https://i.seadn.io/gcs/files/92e7860ec4ad3e6b107af32362c0e10b.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
+[<img alt="Three Good Friends #4" src="https://i.seadn.io/gcs/files/b5cd67fe95bf178342cdd6901a8ccd86.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
 
 ## ▪ Relative links as follows:
 
