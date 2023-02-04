@@ -46,8 +46,7 @@ We startup NFT collections on opensea to bring you health, wealth and happiness,
 [<img alt="Three Good Friends #3" src="https://i.seadn.io/gcs/files/92e7860ec4ad3e6b107af32362c0e10b.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439578753385637648)
 [<img alt="Three Good Friends #4" src="https://i.seadn.io/gcs/files/b5cd67fe95bf178342cdd6901a8ccd86.png" width="170px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439579852897265424)
 
-## ▪ Relative links as follows:
-
+## ▪ Relative links
 
 [<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
@@ -55,10 +54,9 @@ We startup NFT collections on opensea to bring you health, wealth and happiness,
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
 
-
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
-## ▪ Target
-We aim to list more than 1000K NFTs, with a speed of 5K per month.
+## ▪ Terms & Conditions
+Before purchasing this NFT, please read carefully the Terms Of Service (http://bit.ly/3HW8017) and the Terms & Conditions specific to this NFT (http://bit.ly/3HXvu6g). This explains all your rights and any restrictions.
