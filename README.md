@@ -54,9 +54,9 @@ We startup NFT collections on opensea to bring you health, wealth and happiness,
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
 
-[https://nftsharing.github.io](https://nftsharing.github.io)
+[http://nftsharing.top](http://nftsharing.top)
 
-[https://nftsharing.github.io/2](https://nftsharing.github.io/2)
+[http://nftsharing.top/2](http://nftsharing.top/2)
 
 ## ▪ Terms & Conditions
-Before purchasing this NFT, please read carefully the [Terms Of Service](https://nftsharing.github.io/terms/) and the [Terms & Conditions](https://nftsharing.github.io/nft-owner-agreement/) specific to this NFT. This explains all your rights and any restrictions.
+Before purchasing this NFT, please read carefully the [Terms Of Service](http://nftsharing.top/terms/) and the [Terms & Conditions](http://nftsharing.top/nft-owner-agreement/) specific to this NFT. This explains all your rights and any restrictions.
