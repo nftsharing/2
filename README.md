@@ -1,5 +1,6 @@
 
 # Welcome to NFTSharingTop 2
+We are thrilled to announce the launch of multiple NFT collections, designed to bring boundless joy to our valued users. In the near future, we have exciting plans to introduce Real World Asset NFTs (rwaNFTs) that will be intricately intertwined with these collections. Our utmost desire is for all holders to revel in the sheer delight and enjoyment that these NFTs will bring.
 
 ## 3. Idol and Idiot
 [idolandidiot](https://opensea.io/collection/idolandidiot) is a collection of 18 unique NFTs living on the Ethereum blockchain. 
