@@ -63,31 +63,31 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
          width="50px" 
          alt="Woman #1" />
   </a>
-    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439568857780987664"
+    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439571056804243216"
      target="_blank" 
      rel="noopener noreferrer">
-    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/5c5303a91d5011af5d8b8cbb20294b/d55c5303a91d5011af5d8b8cbb20294b.avif" 
+    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/41cb9f1a7682ae1c711da5c912e1e6/ed41cb9f1a7682ae1c711da5c912e1e6.avif" 
          width="50px" 
          alt="Woman #2" />
   </a>
-    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439568857780987664"
+    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439567758269359888"
      target="_blank" 
      rel="noopener noreferrer">
-    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/5c5303a91d5011af5d8b8cbb20294b/d55c5303a91d5011af5d8b8cbb20294b.avif" 
+    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/ecffd089c1ec06490e3e9bd3522d71/73ecffd089c1ec06490e3e9bd3522d71.avif" 
          width="50px" 
          alt="Woman #3" />
   </a>
-    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439568857780987664"
+    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439569957292615440"
      target="_blank" 
      rel="noopener noreferrer">
-    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/5c5303a91d5011af5d8b8cbb20294b/d55c5303a91d5011af5d8b8cbb20294b.avif" 
+    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/7636eb4dd873e71547451b974a8ce7/d07636eb4dd873e71547451b974a8ce7.avif" 
          width="50px" 
          alt="Woman #4" />
   </a>
-    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439568857780987664"
+    <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439566658757732112"
      target="_blank" 
      rel="noopener noreferrer">
-    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/5c5303a91d5011af5d8b8cbb20294b/d55c5303a91d5011af5d8b8cbb20294b.avif" 
+    <img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/1bafb4e295b08761ee6ed5b2a5e32a/1e1bafb4e295b08761ee6ed5b2a5e32a.avif" 
          width="50px" 
          alt="Woman #5" />
   </a>
