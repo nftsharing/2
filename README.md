@@ -4,7 +4,8 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 
 ## 3. Idol and Idiot
 [idolandidiot](https://opensea.io/collection/idolandidiot) is a collection of 18 unique NFTs living on the Ethereum blockchain. 
-[![idolandidiot](https://i.seadn.io/gcs/files/58e3279a7a58b18ec744fc4fd370b020.png?auto=format&dpr=1&w=2048)]([[https://opensea.io/collection/three-good-friends](https://opensea.io/collection/idolandidiot)](https://opensea.io/collection/idolandidiot))
+[![idolandidiot]([https://i.seadn.io/gcs/files/58e3279a7a58b18ec744fc4fd370b020.png](https://i2c.seadn.io/collection/idolandidiot/banner/e3279a7a58b18ec744fc4fd370b020/58e3279a7a58b18ec744fc4fd370b020.png)?auto=format&dpr=1&w=2048)]([[https://opensea.io/collection/three-good-friends](https://opensea.io/collection/idolandidiot)](https://opensea.io/collection/idolandidiot))
+
 
 [Did dinosaurs have immortals in the prehistoric era? #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/23443178393705764944928927726834190789153995017588903609554646597418459594753)
 [Separation is the root of all evil. #10](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/23443178393705764944928927726834190789153995017588903609554646600716994478081)
