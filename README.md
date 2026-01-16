@@ -15,7 +15,9 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 ## 2. Three Good Friends
 [Three Good Friends](https://opensea.io/collection/three-good-friends) is a collection of 4 unique NFTs living on the Ethereum blockchain. They have secret energy power that could bring health, wealth and happiness to you.
 
-[![Three Good Friends](https://i.seadn.io/gcs/files/51671759ab74dd1253da04d95f203fee.png?auto=format&w=2048)](https://opensea.io/collection/three-good-friends)
+<div align="center">
+  <a href="https://opensea.io/collection/three-good-friends"><img src="logo/TAFBanner.png" width="62%" alt="banner"></a>
+</div>
 
 [Three Good Friends #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439576554362382096)
 [Three Good Friends #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439577653874009872)
