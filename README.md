@@ -61,7 +61,6 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
      rel="noopener noreferrer"><img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/5c5303a91d5011af5d8b8cbb20294b/d55c5303a91d5011af5d8b8cbb20294b.avif" 
          width="50px" 
          alt="Woman #1" /></a>
-  
   <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439571056804243216"
      target="_blank" 
      rel="noopener noreferrer"><img src="https://i2c.seadn.io/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/41cb9f1a7682ae1c711da5c912e1e6/ed41cb9f1a7682ae1c711da5c912e1e6.avif" 
