@@ -35,6 +35,10 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 
 [![five-men-and-five-women](https://i.seadn.io/gcs/files/f01e6fc614b2c76c02ed8b6e5973ed24.png?auto=format&w=2048)](https://opensea.io/collection/five-men-and-five-women)
 
+<div align="center">
+  <a href="https://opensea.io/collection/five-men-and-five-women"><img src="logo/Banner.png" width="62%" alt="banner"></a>
+</div>
+
 [Man #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439561161199593232)
 [Man #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439562260711221008)
 [Man #3](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439563360222848784)
